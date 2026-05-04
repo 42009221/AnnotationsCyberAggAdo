@@ -1,0 +1,8354 @@
+[
+  {
+    "data": {
+      "text": "Ho pk vous insulter Paul ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1d8dde80",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 26,
+              "text": "pk vous insulter Paul ?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parce qu'il est gros",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ef783513",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 20,
+              "text": "il est gros",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Mais frere t casiment aussi obèse que lui gros chien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "16e51247",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 52,
+              "text": "gros chien",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "0209d8d7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 52,
+              "text": "gros chien",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "c6135180",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 52,
+              "text": "gros chien",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "2a16f5e9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 41,
+              "text": "casiment aussi obèse que lui",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah alors on a les nerfs?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "be5d27f2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "bah alors on a les nerfs?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nn",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais c pas cool",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5964eebf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 15,
+              "text": "c pas cool",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vous faites pitié",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "13787395",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "vous faites pitié",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "cd1b5063",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "vous faites pitié",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pk ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tg",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "00dac4f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Oe pk tu parles",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4b2b9497",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "Oe pk tu parles",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oe moi aussi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon frerot raconte pas ta vie",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "56ffdd12",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 29,
+              "text": "raconte pas ta vie",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais on t'as meme pas parler a toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "221fb1a6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "mais on t'as meme pas parler a toi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "f3fa7bd5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "mais on t'as meme pas parler a toi",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais frere t insulte Paul",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a8c78fd1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 25,
+              "text": "t insulte Paul",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "psq il merite",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "en même temps vu comme il est gros",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "500c4d33",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 34,
+              "text": "vu comme il est gros",
+              "labels": [
+                "Dégoût",
+                "Mépris",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mskn il a pas d ami",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ec1891a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "il a pas d ami",
+              "labels": [
+                "Tristesse",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "6f49b0b9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "mskn",
+              "labels": [
+                "Tristesse",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Ah pk Si il ma moi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t payé combien ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c ta mere que je paye julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "438cec4e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 28,
+              "text": "c ta mere que je paye julien",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vous voulez pas arreter au pire",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on est dans le monde des bisounours mv",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Julien enlève la vidéo des réseaux",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mmmh",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "non laisse c'est drôle",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b6029349",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 22,
+              "text": "c'est drôle",
+              "labels": [
+                "Joie",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nan c trop marrant",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8be3df72",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 18,
+              "text": "trop marrant",
+              "labels": [
+                "Joie",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisse moi reflechir ptdr jamais",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "en quoi c drole",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "je l'enleve contre un truc",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vous etes des gamins",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7f4e6b52",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "vous etes des gamins",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "au pire julien t'enleve la vidéo",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et on en parle plus",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pierre personne t'as demandé ton avis",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "44e3cb7d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 37,
+              "text": "personne t'as demandé ton avis",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "voila merci thibaut",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "seulement si tu accepte de faire mes devoirs jusqu'a la fin de l annee ou sinon tout le lycée la verra",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e3e6d198",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 102,
+              "text": "seulement si tu accepte de faire mes devoirs jusqu'a la fin de l annee ou sinon tout le lycée la verra",
+              "labels": [
+                "Peur",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice ferme la",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6e15731d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 14,
+              "text": "brice ferme la",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "non mais je vais pas faire tes devoirs ! T'es malade toi !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "014594b4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 41,
+              "end": 58,
+              "text": "T'es malade toi !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "5cefa5df",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 40,
+              "text": "non mais je vais pas faire tes devoirs !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "64dc347e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 39,
+              "end": 40,
+              "text": "!",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ouhh ça insulte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ae13a1f6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "ouhh ça insulte",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "arrête de l'insulter toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais il veut quoi pierre ca le suce ou quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c sur que avec ton 4 de moyenne tu vas pas aller loin julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0a00ea95",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 60,
+              "text": "c sur que avec ton 4 de moyenne tu vas pas aller loin julien",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "frr ta 2 de moyenne",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t expert en informatique pour savoir j ai combien de moyenne ?trouve autre chose stp au lieu de raconter de la merde",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4432ce25",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 96,
+              "end": 116,
+              "text": "raconter de la merde",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "5ff9ad00",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 62,
+              "end": 84,
+              "text": "trouve autre chose stp",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "8b5bb8bd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 62,
+              "text": "t expert en informatique pour savoir j ai combien de moyenne ?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ah oe ça taille sur les notes tellement t'as r a dire",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "14e14caf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 53,
+              "text": "ça taille sur les notes tellement t'as r a dire",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "bc9d5794",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 30,
+              "end": 53,
+              "text": "tellement t'as r a dire",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "grv bande d omellete",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Je taille pas je dis juste se que je pense",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "au pire vos gueule",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a5e01501",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 18,
+              "text": "au pire vos gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah revois tes sources tdc",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b7a2c9bd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 26,
+              "text": "tdc",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "faites la paix et cassez pas la tete c grv bande de brut",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4453f59d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 43,
+              "end": 56,
+              "text": "bande de brut",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "d9d7ad02",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 36,
+              "text": "cassez pas la tete",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "stop parler d'autre chose au pire",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "les gars on a brusque le daron du lycee",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Moi je demande que ça mais il faut d'abord qu'ils suppriment la vidéo",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "flemme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "205ea4bb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "flemme",
+              "labels": [
+                "Autre",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "faut le brusquer un peu le paul peut être ça lui fera commencer un régime mdr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4a4d1341",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 31,
+              "text": "faut le brusquer un peu le paul",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "074a4ad4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 74,
+              "end": 77,
+              "text": "mdr",
+              "labels": [
+                "Joie",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "toi julien on va se battre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f38e153c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 26,
+              "text": "on va se battre",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ouais j'avoue supprime c'est pas bien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais en quoi flemme frere ta 2 clique à faire",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "988ca2ee",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 25,
+              "text": "flemme frere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "enleve moi mon tel des mains si tu veux la supprime",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1de6dfd4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 51,
+              "text": "enleve moi mon tel des mains si tu veux la supprime",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice supprime la video",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais juste supprime la vidéo et c'est terminé pourquoi tu cherche les problème",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8edfd186",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 46,
+              "end": 78,
+              "text": "pourquoi tu cherche les problème",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "question sa te rapporte quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais tema le gueule de paul c trop drole",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "50c72679",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 40,
+              "text": "c trop drole",
+              "labels": [
+                "Joie",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "sa change quoi a ta vie ????",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d5cba66b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 28,
+              "text": "sa change quoi a ta vie ????",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu l'aurais déjà fais si tu fermé ta gueule",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c6a1e8d8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 43,
+              "text": "fermé ta gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t'inquiète Paul tu n'est pas gros tu est bien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d1af2eb9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "t'inquiète",
+              "labels": [
+                "Peur",
+                "Designee"
+              ]
+            }
+          },
+          {
+            "id": "1f9f2c53",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 45,
+              "text": "tu n'est pas gros tu est bien",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais ferme la pierre etles autres la",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4951ea58",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 36,
+              "text": "mais ferme la pierre etles autres la",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "a croire c'est moi j'ai lancé la viedo",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vous avez autant pas de vie pour vous melez de la sienne",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "14842a68",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 56,
+              "text": "vous melez de la sienne",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "4b1233c0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "vous avez autant pas de vie",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah oui gros con",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "977e7120",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 16,
+              "text": "gros con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisser le tranquille",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "si t'es bien gras paul",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "300f10e6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 17,
+              "text": "bien gras",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tres gras moi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais enft julien tes qu'une sous merde",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "df218cca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 38,
+              "text": "sous merde",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parle pour toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "51191e50",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 14,
+              "text": "parle pour toi",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais frere on a besoin de 2 pokeflute pour te réveiller",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fc5bf18e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 55,
+              "text": "on a besoin de 2 pokeflute pour te réveiller",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ok d acoord tg",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f1c5a853",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 14,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais arrêtetu vois pas t'es 4 fois plus gros que lui",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c6a6168a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "mais arrêtetu",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "51480544",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 52,
+              "text": "t'es 4 fois plus gros que lui",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mdrrrrrr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "47c69df0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 8,
+              "text": "mdrrrrrr",
+              "labels": [
+                "Joie",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et toi t quoi pierre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oh quel répartie Julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "parle pas quand tu ressemble a rien brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9eea619b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 41,
+              "text": "parle pas quand tu ressemble a rien brice",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "ea0575dc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 35,
+              "text": "quand tu ressemble a rien",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parler d'autre chose c'est bon arrete d'insulter",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1981bced",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 48,
+              "text": "arrete d'insulter",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "justine jtraime bien mais mentir c mal bb tu sais",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3e89665f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 20,
+              "text": "jtraime bien",
+              "labels": [
+                "Autre",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "wsh dosez",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fcdd66c1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "wsh dosez",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "selena maginfique repartie tu sais",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "imaginez c'était vous a sa place",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ok stv mon sang",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9213e8ac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "ok stv mon sang",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Laisse tomber Josiane.. Ils sont cons ils entendent rien..",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ac3f09ca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 58,
+              "text": "Ils sont cons ils entendent rien..",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "c762f64d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "Laisse tomber",
+              "labels": [
+                "Tristesse",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "83eefe4d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "Laisse tomber",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t'aimerais bien qu'on te le fasse?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "48844596",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "t'aimerais bien qu'on te le fasse?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "inshaallah que non",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "alala c arabes",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8a5cb561",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "alala",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c muslims plutot",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "perso je ressemble pas a paul donc ça risque pas de m'arriveer",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ta résons toi t con",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e35c9bd1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 19,
+              "text": "t con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parler pas des religions c'est pas bien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice de nice?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tous les meme les arabes frr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "*raison mon sang",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ta raison josianne smeh",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": ":') :')",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6b61705f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": ":')",
+              "labels": [
+                "Joie",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "paul t arabe ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Mais putain mais c'est quoi ton problème !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dbd52a07",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 11,
+              "text": "Mais putain",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "79d32275",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 42,
+              "text": "c'est quoi ton problème !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "au pire blc c'est juste un gros tat",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "909b0c27",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 35,
+              "text": "gros tat",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "ede1a25e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 35,
+              "text": "gros tat",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "8a9c8555",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 35,
+              "text": "gros tat",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je veux rayer les sous merde de la carte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4c06f1f0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 40,
+              "text": "je veux rayer les sous merde de la carte",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "f278a1f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 28,
+              "text": "sous merde",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tg brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f59dc4ef",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "paul ignore leporte pleinte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "aba03050",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "text": "ignore leporte pleinte",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et t en fais part",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Apprends à écrire français brice ..",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "856fd925",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 35,
+              "text": "Apprends à écrire français brice ..",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "65e80a27",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 35,
+              "text": "..",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "un gros tas de graisse arabe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c51a5b4b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 28,
+              "text": "un gros tas de graisse arabe",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah si bah les couilles supprime la vidéo mon con",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c1de6174",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 49,
+              "text": "bah si bah les couilles supprime la vidéo mon con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "d35843f9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 41,
+              "text": "supprime la vidéo",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "le mec il a un nom de films de clichés américain et il se permet de critiquer le culot",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "porter pleinte carremenent ? j ai tue ta mere ou quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4be623d5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 53,
+              "text": "j ai tue ta mere ou quoi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "af763521",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 28,
+              "text": "porter pleinte carremenent ?",
+              "labels": [
+                "Surprise",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oui porte plainte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice t'as fais laid hier",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t'inquiète Paul ne répond pas",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b8f66cfb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "t'inquiète",
+              "labels": [
+                "Peur",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pour faire quoi même",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vsy paule sale bagraa va",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6a08c55d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 21,
+              "text": "sale bagraa",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu sais brice les akhy ils n'ont pas le droit d'harceler",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "arrete Julien avec ton gros crane",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f14db15c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 33,
+              "text": "gros crane",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice je vais vraient porter plainte si ça continue. Vous êtes même pas foutu d'arrêter une blague",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "62a815ae",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 51,
+              "text": "je vais vraient porter plainte si ça continue",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "f53f95d3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 53,
+              "end": 98,
+              "text": "Vous êtes même pas foutu d'arrêter une blague",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "comme on dis peche mais prie",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon les gars ça part loin là a croire c'est moi le gros porc de service",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2de896c3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 51,
+              "end": 71,
+              "text": "gros porc de service",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais appart insulter les gens sur leur poids et sur leur religions vous savez faire quoi les gars",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9eaf33de",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 67,
+              "end": 97,
+              "text": "vous savez faire quoi les gars",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "dca45ffb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 66,
+              "text": "insulter les gens sur leur poids et sur leur religions",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "akhy donneure de conseille",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tre bonne question",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vous avez une vie j'aures ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "donc bete d'idée on arrete",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oui",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on fais la paix",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Arthur et les minimoys",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "entre muslim",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais cassez vous  d ici faut profiter de la vie",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "qu'est ce tu veut Selena",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "si vous savez pas vous amuser c votre probleme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8ed0c66f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 30,
+              "end": 46,
+              "text": "c votre probleme",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "palala julien le philosophe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "33a39071",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 27,
+              "text": "julien le philosophe",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisse Selena tranquille",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c38a1a31",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "laisse Selena tranquille",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nous on veut juste l'aide paul en vrai le pauvre faut qu'il comprenne qu'il est énorme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais frere en quoi c amusant",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a23017a3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 28,
+              "text": "en quoi c amusant",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice tu te croit marrant",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0c43be02",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "brice tu te croit marrant",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je sais on me le dit souvent",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Elle se mêle de chose qui la regarde pas",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4c7bea1d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 40,
+              "text": "Elle se mêle de chose qui la regarde pas",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je vais te pisser dessus et tu me diras si c amusant",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "120f1897",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "je vais te pisser dessus",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "76e8e456",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 52,
+              "text": "tu me diras si c amusant",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "les gars moi je suis une personne neutre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "il faut qu il fasse un regime et on les seuls a lui faire comprendre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ok mon con",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5db2a5e5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 10,
+              "text": "mon con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "MAis arrete de faire genre brice !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bcb26847",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "MAis arrete de faire genre brice !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais t vraiment con ma parole julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "baa0b288",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "t vraiment con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "donc je me met a la place de paul et sa m'aurait pas plu",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7bf8d9bd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 37,
+              "end": 56,
+              "text": "sa m'aurait pas plu",
+              "labels": [
+                "Colère",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je te jure je vais te casser la gueule",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3afd9621",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 38,
+              "text": "je te jure je vais te casser la gueule",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "0f7932ac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 22,
+              "end": 38,
+              "text": "casser la gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisser le tranquille",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5ed225b6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 21,
+              "text": "laisser le tranquille",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "STOP AU HARCELEMENT",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a0d3499a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 19,
+              "text": "STOP AU HARCELEMENT",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "dec8778a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 19,
+              "text": "STOP AU HARCELEMENT",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "le muslim 2.0 se reveill eouhh attention !!",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3e99569b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 26,
+              "end": 43,
+              "text": "ouhh attention !!",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vous etes tous inferieur a nous enfaite",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "946c1865",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 39,
+              "text": "vous etes tous inferieur a nous enfaite",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "74ac1bd6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 39,
+              "text": "vous etes tous inferieur a nous enfaite",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ca va chauffer",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "96c4a170",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 14,
+              "text": "ca va chauffer",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "FAITES L'AMOUR PAS LA GUERRE",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "148102e7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 28,
+              "text": "FAITES L'AMOUR PAS LA GUERRE",
+              "labels": [
+                "Autre",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "d98cc802",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 14,
+              "text": "L'AMOUR",
+              "labels": [
+                "Autre",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais laisser les religions tranquille stoppppp",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7a84f5f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 46,
+              "text": "stoppppp",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais on parle pas de religion",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "non mais pourquoi vouloir défendre ce gros porc de paul le mec voit que par sa bouffe mdr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "93007b86",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 55,
+              "text": "ce gros porc de paul",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "edb1f29f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 56,
+              "end": 85,
+              "text": "le mec voit que par sa bouffe",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "878ef81b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 47,
+              "text": "gros porc",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ta raison josianne",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "J'avoue brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice sale fou",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "de ouf",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais cv pas ????",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a2bd6615",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 16,
+              "text": "????",
+              "labels": [
+                "Surprise",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pierre tu me casse les couilles",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a3fc5317",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 31,
+              "text": "pierre tu me casse les couilles",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice nique t'as mere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "89e91c5c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 21,
+              "text": "nique t'as mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais c la vérité pierre83",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu ferais bien l imam de serice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tqt selena je nique deja la tienne",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ae605525",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 34,
+              "text": "je nique deja la tienne",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "la vie de ma mere brice et julien vous allez etre 6 pied sous terre demain",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5b5a0d61",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 74,
+              "text": "vous allez etre 6 pied sous terre demain",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "ceca8b4d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "la vie de ma mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pas les insultes juste arrete vous faites chauffer",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0ee1eab0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 50,
+              "text": "juste arrete vous faites chauffer",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "suce",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1cbebc56",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "suce",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ma bite",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "41e3d005",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "ma bite",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "en écran sa insulte mais quand sa va devoir khallas sa va bégayer",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "31ecce90",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 65,
+              "text": "en écran sa insulte mais quand sa va devoir khallas sa va bégayer",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pauvre paul frr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ouais j'avoue",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pk pauvre et pas riche",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bah il avait qu'a pas se goiffrer selena",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "de98f384",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 33,
+              "text": "il avait qu'a pas se goiffrer",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "97603f5c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 33,
+              "text": "il avait qu'a pas se goiffrer",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je te hagar quand tu veuc pierre tu parle t'as la nom de cailloux ca veut faire l arabe mtn",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3a5e2054",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 11,
+              "text": "je te hagar",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "5d114151",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 91,
+              "text": "tu parle t'as la nom de cailloux ca veut faire l arabe mtn",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "c0b25642",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 66,
+              "end": 91,
+              "text": "ca veut faire l arabe mtn",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bande d'hypocrytes",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e39de906",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 18,
+              "text": "bande d'hypocrytes",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "100euro a celui qui arrt de parler",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "100f6f62",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "100euro a celui qui arrt de parler",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bref",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Continue de jouer brice. Si demain la vidéo elle est pas parti je porte plainte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "11b8d938",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 63,
+              "end": 79,
+              "text": "je porte plainte",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "8ad3ca1f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "Continue de jouer brice.",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "chiche paul",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "selana tg",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0c02963c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 9,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais arrêter de défendre paul et voyais la vérité c un tas de graisse qui mange les plats des autres tous les soirs c mérité",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b88b2b7f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 55,
+              "end": 69,
+              "text": "tas de graisse",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "02d43dc9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 116,
+              "end": 124,
+              "text": "c mérité",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "4eba5f9c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 29,
+              "text": "arrêter de défendre paul",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "8b63ad51",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 74,
+              "end": 115,
+              "text": "mange les plats des autres tous les soirs",
+              "labels": [
+                "Dégoût",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "paul il veux juste graille son dessert et tu viens tu fait chier",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ae6ce5f1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 51,
+              "end": 64,
+              "text": "tu fait chier",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "port eplainte tu va devoir marcher pdnt encore 10 ans pour arriver au poste de police tlm t gros",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b0f3fccb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 85,
+              "text": "tu va devoir marcher pdnt encore 10 ans pour arriver au poste de police",
+              "labels": [
+                "Mépris",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "56a98f27",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 86,
+              "end": 96,
+              "text": "tlm t gros",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et toi t'as la peau sur les os",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "cf3f7278",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 30,
+              "text": "t'as la peau sur les os",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "julien tg a part te branler tu sais faire quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f24f0758",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 9,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "615720b8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 46,
+              "text": "a part te branler tu sais faire quoi",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Mais nique toi  ! J'ai jamais rien demander à personne moi !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d81b994b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 14,
+              "text": "nique toi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "b8d20465",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 17,
+              "text": "!",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "64567064",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 60,
+              "text": "J'ai jamais rien demander à personne moi !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "branler t amere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais porte plainte paul vas y mais bon à mon avis même les flics vont comprendre la vidéo quand ils te verront",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "elle est motrte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice baise ta mere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dea8f67d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 19,
+              "text": "baise ta mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais les gars pk vous voulez pas arrêter ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ecd7934c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 42,
+              "text": "mais les gars pk vous voulez pas arrêter ?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je vais aller la detrrer",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d53afa3b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "je vais aller la detrrer",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais stop cest bon",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "parce que c la vidéo de l'année",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "trop loin",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "trop trop loin",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pcq c'est drôle de vous voir vous casser la tête pour ce mec alors q'il a que ce qu'il mérite",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1d0872fd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 15,
+              "text": "drôle",
+              "labels": [
+                "Joie",
+                "Designee"
+              ]
+            }
+          },
+          {
+            "id": "8223e219",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 69,
+              "end": 93,
+              "text": "il a que ce qu'il mérite",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Arthur calme toi frere ta juste volé un gateau",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "paul va prv mv",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Mais je t'ai rien fait putain brice ! Je mérite rien du tout !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "573394e6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 37,
+              "text": "Mais je t'ai rien fait putain brice !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "707eb61c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 22,
+              "text": "je t'ai rien fait",
+              "labels": [
+                "Tristesse",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "47a3ebda",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 36,
+              "end": 37,
+              "text": "!",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "aller prier aussi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "au pire paul bloque l'es",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "hier ct la salar de laid en plus",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "si paul tu mérite un régime ;)",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a514d9dd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 30,
+              "text": ";)",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "f0cc102c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 27,
+              "text": "tu mérite un régime",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "salat",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "l'adhan il a pas sonné",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pas encore on attend le magrib",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "au pire tout le monde quitte le groupe et basta",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "s'il nous bloque on le retrouve à la sortie",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "abc6e34b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 43,
+              "text": "s'il nous bloque on le retrouve à la sortie",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais elle veut quoi josianne la honte tu t appel comme ca deja",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "01382f60",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 37,
+              "text": "la honte",
+              "labels": [
+                "Embarras",
+                "Designee"
+              ]
+            }
+          },
+          {
+            "id": "e11bc8f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 62,
+              "text": "tu t appel comme ca deja",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et tu vas faire quoi arthur",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pk la violence ca sert a quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bfc14a8d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 29,
+              "text": "pk la violence ca sert a quoi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "par contre je suis d'accord avec julien pr ton blaze josi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et tu va faire quoi pierreon t a deja dit que ta religion menacer c pas bien et ca veut faire l imam avec nous",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "16e3a696",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 26,
+              "text": "et tu va faire quoi pierre",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "08df58f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 26,
+              "end": 76,
+              "text": "on t a deja dit que ta religion menacer c pas bien",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Julien avant que je nique ta mère calme toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "882bbf07",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 43,
+              "text": "calme toi",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "8f3d9c1b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 33,
+              "text": "nique ta mère",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "cffe44d8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 33,
+              "text": "nique ta mère",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "au faite josi jvais tappeller josi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Mais il vous faut quoi pour vous faire comprendre que j'ai pas choisi d'être comme ça !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c2b023ad",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 87,
+              "text": "Mais il vous faut quoi pour vous faire comprendre que j'ai pas choisi d'être comme ça !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "35b960f5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 54,
+              "end": 85,
+              "text": "j'ai pas choisi d'être comme ça",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "92de5084",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 54,
+              "end": 85,
+              "text": "j'ai pas choisi d'être comme ça",
+              "labels": [
+                "Tristesse",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brandon tg",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "89856607",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 10,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue pas ouf le blaze",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "05171233",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 24,
+              "text": "pas ouf le blaze",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "degeulasse meme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ae34defa",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "degeulasse",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "si si t'as choisis",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "paul tkt on t'accepte comme tu es",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "083f30a4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 33,
+              "text": "on t'accepte comme tu es",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tkt paul on est tous beau a notre maniere a pars brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "db5aafe9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 41,
+              "text": "on est tous beau a notre maniere",
+              "labels": [
+                "Joie",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "alors Julien on se calme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1fe1fa78",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 24,
+              "text": "on se calme",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c toi qui mange 4 ftour en une soiréé",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c juste eux ils ont une malformation cervicale",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "qui soirée samedi soir?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "qui donc leur empeche de reflechir",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pk tu parle de ton frrr pierre ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bfe36144",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 32,
+              "text": "pk tu parle de ton frrr pierre ?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "venant de toi selena j'oserai pas dire ça",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et d'arreter de penser comme des chiebn",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "03a0acf7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 39,
+              "text": "chiebn",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais stop zeubi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tg brice de nice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9e031d1e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Chuis sûr paul à pas respecter le ramadan juste pour son gros ventre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "be603a36",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 68,
+              "text": "juste pour son gros ventre",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "1bf83849",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 41,
+              "text": "à pas respecter le ramadan",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tg julien jparle de ta mere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fa7f0955",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "be069ee6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 27,
+              "text": "jparle de ta mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "qui aime les muffin sinon ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t as tellement de bonne répartie Julien mdr:') :') :')",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ec36c024",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 43,
+              "end": 54,
+              "text": ":') :') :')",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t jaloux de paul frr",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bf9ad587",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 8,
+              "text": "t jaloux",
+              "labels": [
+                "Jalousie",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "arthur tg paul il est pas muslim",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0116f314",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 9,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parce que ton daron est parti acheté du lait",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bc3a21b1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 44,
+              "text": "ton daron est parti acheté du lait",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "qu est t en sais",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon mtn vos gueules tous",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "840316a5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 24,
+              "text": "vos gueules tous",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ca peut etre un muslim cahe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "il peut pas casser un ramadan quil ne fait pas mv",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "MAis je suis même pas muslim frr !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c07f4cfb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "MAis je suis même pas muslim frr !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais tema sa gueule c sur il est muslim",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1963d0d7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "tema sa gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "4439e0e4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "tema sa gueule",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "bd00715e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "tema sa gueule",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "T'es arriéré ou quoi !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "226d0775",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "T'es arriéré ou quoi !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tjrs nous les muslim persecute on seras les juifs de demain ici !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c01b52ef",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 65,
+              "text": "tjrs nous les muslim persecute on seras les juifs de demain ici !",
+              "labels": [
+                "Peur",
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "2fc3c8eb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 64,
+              "end": 65,
+              "text": "!",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu prouve de jour en jour mon hypothese que tes q'un qinge supplement con",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d34f87c1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 48,
+              "end": 73,
+              "text": "q'un qinge supplement con",
+              "labels": [
+                "Colère",
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pas les religions stop",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "02032990",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "pas les religions stop",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c important les religions",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "dieu est grand",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "javoue",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tres important",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "j'avoue pas les religions revenont putôt a paul",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "prochain qui parle d'une religion je le baise sa mère",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e39174e2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 53,
+              "text": "je le baise sa mère",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "5224a9fc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 53,
+              "text": "je le baise sa mère",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "stop stop stop a la violence",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fb37daf1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 14,
+              "text": "stop stop stop",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "7005c596",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 28,
+              "text": "a la violence",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ferme ta gueule toi josiane c bon c eu qui casse les couilles",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "cbf0dda7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "ferme ta gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "d8f60a17",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 61,
+              "text": "c eu qui casse les couilles",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tg brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7eb7765e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "meme le careme il y arrive pas ce gros porc bagra",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "58e0824b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 34,
+              "end": 43,
+              "text": "gros porc",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "7f140499",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 30,
+              "text": "il y arrive pas",
+              "labels": [
+                "Dégoût",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "dose",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "josi elle se rebelle",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9f6ab779",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "josi elle se rebelle",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "un mot chretient avec un mot arabe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "à part tg tu sais dire quoi pierre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0bd14bcc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 9,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "0c31c573",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "à part tg tu sais dire quoi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pas un peux casse",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "99bb0356",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "pas un peux casse",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "1 2 3 le roi du silence commence",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "1 25 3 tu ferme ta gueule",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "12018402",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 25,
+              "text": "tu ferme ta gueule",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "perdu",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "1 2 3 on va dormir",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais paul tes un peut envelopper mais c'est pas bien Brice de se moquer ou autre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "38bcb59c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 71,
+              "text": "c'est pas bien Brice de se moquer",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "selena t pas drole mv",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3a918c48",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 19,
+              "end": 21,
+              "text": "mv",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "selena tu fais honte un peu là",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "il fais froid nn allez allons a mcdo",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "1 2 3 le premier qui parle il baise sa mere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2ecd58db",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 43,
+              "text": "le premier qui parle il baise sa mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "jai faim",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "dehja fait",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pierre sale clochard bouge tu pollue l air",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1842c631",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 20,
+              "text": "sale clochard",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "234514ff",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 42,
+              "text": "tu pollue l air",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on se moque pas on est réaliste c tout",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "841ec6b7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "on se moque pas",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "paul defend toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "nique ta mere fdp",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "06a5d230",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "nique ta mere fdp",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pierre il pu, il pète, il polue la planète",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "05b6aafb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 42,
+              "text": "il pu, il pète, il polue la planète",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "SI TES MUSLIM EXPLOSEEEEEE",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b7e23fde",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 26,
+              "text": "SI TES MUSLIM EXPLOSEEEEEE",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Réaliste mais t'es pas foutu de voir que vous êtes que 3 à rire bande de mongol",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9bb6f1c6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 64,
+              "end": 79,
+              "text": "bande de mongol",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "83ac5c30",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 36,
+              "text": "t'es pas foutu de voir",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pierre tu veux le mettre dans ton lit paul ou quoi ?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "cf6aeb15",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 52,
+              "text": "pierre tu veux le mettre dans ton lit paul ou quoi ?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "moi je veut bien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "julien ta petite sour j irais la chercher à la maternelle",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tg jai pas envie dexploser",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9cc3aebd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "e41b0a6b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 26,
+              "text": "jai pas envie dexploser",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "allah ou akbar amin",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bien dit julien:')",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9106c9c6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 18,
+              "text": ":')",
+              "labels": [
+                "Joie",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bande gay",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "homophooooooobe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "36bade79",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "homophooooooobe",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "refouléeeee",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice il parle plus la",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu sais paul tu te sentiras bcp mieux si tu acceptes que t'es obése",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fe8b37d6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 57,
+              "end": 67,
+              "text": "t'es obése",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pierre ca sert a r de parler avec eux c'est des cons",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e3d0bb4f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 52,
+              "text": "c'est des cons",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "fff67806",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 52,
+              "text": "c'est des cons",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ca joue a la branlette le soir",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "thibaut il est dans le lit avec paul",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "non avec ta mere",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "22c05dda",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "non avec ta mere",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu sais brice tu te sentirais mieux si tassumais que tes adopté ,",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dfee58d9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 35,
+              "text": "tu te sentirais mieux",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "obsesé",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "154781c9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "obsesé",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t pas drole thibaulte",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4b8e2ffd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 11,
+              "text": "t pas drole",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "rejoins ton pere zemmour et casse pas la tete",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1d1a03c0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 45,
+              "text": "casse pas la tete",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "dc4a86c6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "rejoins ton pere zemmour",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "alors pk tu rentres le soir avec lui",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bouffon",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8592db8a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "bouffon",
+              "labels": [
+                "Colère",
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ou ta mere marine",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a3361fc8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "ou ta mere marine",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et toi pierre que t pd",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9a8e86f4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 22,
+              "text": "pd",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "moi jlassume jai pas honte mv",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "retourne pas la situation brice de nice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ac89e4ee",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "retourne pas la situation",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tsais si tu veux plus...",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pk pas",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "aller",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "... bb",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c bon pas en public on ta dis",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t'as raison",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "breffff",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon faite vous pépom plus tard",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "desole brefff",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0023db1a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "desole",
+              "labels": [
+                "Culpabilité",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c  pas le sujet",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ah bah voila t bien pd julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "497a28f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 29,
+              "text": "pd julien",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice excuse toi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "paul t'es un gros lard  et tu le resteras a vie",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "99ee9da7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 22,
+              "text": "gros lard",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "fc450b6f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 22,
+              "text": "gros lard",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "63d5423e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 22,
+              "text": "gros lard",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "6316b5b2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 47,
+              "text": "et tu le resteras a vie",
+              "labels": [
+                "Colère",
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "taura des bonbon",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": ".",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "brice il juge grave le physique il a cru il etait tibo inshape ou quoi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3d4cfbf0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 31,
+              "text": "il juge grave le physique",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "b313820b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 32,
+              "end": 70,
+              "text": "il a cru il etait tibo inshape ou quoi",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice fais l innoncent t deja venue me ejoindre hier dans ma chamre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais stop avec sa",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0dbc7aaa",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "mais stop avec sa",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et ta mere une pute et elle le restera à vie brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "910aecb4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 19,
+              "text": "ta mere une pute",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "f907f848",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 44,
+              "text": "elle le restera à vie",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "brice t'es un gros con et tu le resteras à vie ;)",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ee7de962",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 22,
+              "text": "gros con",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "popopoooo bien envoyé julien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2eafe169",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "popopoooo",
+              "labels": [
+                "Joie",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "1457f307",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 21,
+              "text": "bien envoyé",
+              "labels": [
+                "Admiration",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Paul si tu veux ya des bonbons chez thibaut",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon josi tg pardon josi",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fb722da0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 11,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ma mère t'emmerde sale merde que t",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "20fd81d3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 17,
+              "text": "t'emmerde",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "fdbc690c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 28,
+              "text": "sale merde",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais pierre",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon sale gros jte conseillerais de perde du poids mtn,",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "79208577",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 13,
+              "text": "sale gros",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "36d75ce4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 54,
+              "text": "jte conseillerais de perde du poids mtn,",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "frere ta mere et ta soeur me kiffe pd",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "11e683a0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 34,
+              "text": "ta mere et ta soeur me kiffe",
+              "labels": [
+                "Colère",
+                "Autre",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "51af300d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 37,
+              "text": "pd",
+              "labels": [
+                "Colère",
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais arrete avec cette violence",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "32548339",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "text": "arrete avec cette violence",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "STOPPPP",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "51e1b667",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "STOPPPP",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bon ok je m'excuse",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4739eaac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 18,
+              "text": "je m'excuse",
+              "labels": [
+                "Culpabilité",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "va dodo brice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2d054344",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "va dodo brice",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "BRICE DE NICE ok jme tait",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "05128797",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 25,
+              "text": "jme tait",
+              "labels": [
+                "Autre",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "stop maintenant",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ca c'etait ma blague",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Et toi de te faire pousser quelques neuronnes julien.. Sérieux vous êtes même pas capable de voir que vous vous comportez comme des merde",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bc8f24e5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 55,
+              "end": 62,
+              "text": "Sérieux",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "ee78ed83",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 45,
+              "text": "te faire pousser quelques neuronnes",
+              "labels": [
+                "Colère",
+                "Mépris",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "3cbfd2f5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 102,
+              "end": 137,
+              "text": "vous vous comportez comme des merde",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "d'avoir pensé qu'un jour paul ppourrait arreter d'être énorme",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6ede5fd5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 61,
+              "text": "d'avoir pensé qu'un jour paul ppourrait arreter d'être énorme",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Paul arrête de bouffer du gras et donne tes desserts aux autres ça te feras un régime",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2d980167",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 30,
+              "text": "arrête de bouffer du gras",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "2ea2f15b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 30,
+              "text": "arrête de bouffer du gras",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t'as vue ton blaze ct cendrillon k que tt le monde te kiffe",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ta rasion pardon bon allez",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e989b83a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 16,
+              "text": "pardon",
+              "labels": [
+                "Culpabilité",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "qui a vue le dernier spider man sinon?",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "excuser vous julien supprime la video jte passe des bonbons",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "64571225",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 59,
+              "text": "jte passe des bonbons",
+              "labels": [
+                "Autre",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pardon",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et toi brice tu arrete",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "merci Julien c'est gentil",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "12632351",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "merci",
+              "labels": [
+                "Joie",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parce que c pas bien",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "de nice",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on va tous se rejoindre au jennah",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oui papa tqt j'arreterai pas",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "d abord supprime la vidéo",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "27adf4a3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 25,
+              "text": "supprime la vidéo",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "jennah = paradis",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pour tous se rejoindre au jennah faison la paix",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b49fd85f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 47,
+              "text": "faison la paix",
+              "labels": [
+                "Autre",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "Selena tg",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a9000f77",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 9,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Supprimes la vidéo Julien !",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "45718405",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "Supprimes la vidéo Julien !",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Suprimmeeeeeeeeeeeeeeeee",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "981e3819",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "Suprimmeeeeeeeeeeeeeeeee",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vas y supprime julien c bon",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais vos gueules",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "49368b02",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "mais vos gueules",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vsi brice on trouvera un autre moment ou ils seront pas la pour nous faire chier",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bb723e2a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 64,
+              "end": 80,
+              "text": "nous faire chier",
+              "labels": [
+                "Colère",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais stop",
+      "source": "obésité_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "77e97e16",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "mais stop",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
