@@ -13,12 +13,11 @@ L'arborescence est organisée pour séparer les données selon leur état d'avan
 ├── config/
 │   └── label_studio_config.xml           # Configuration UI (Setup) pour Label Studio
 ├── data/
-│   ├── 01_raw/                           # Données sources initiales (ex: JSONL) [PAS UTILISÉ]
-│   ├── 02_gold_flat/                     # Fichiers XLSX avec les gold labels aplatis (span-level → phrase-level)
-│   ├── 03_label_studio/
+│   ├── 01_gold_flat/                     # Fichiers XLSX avec les gold labels aplatis (span-level → phrase-level)
+│   ├── 02_label_studio/
 │   │   ├── imports/                      # Fichiers JSON générés prêts à être importés dans Label Studio
 │   │   └── exports/                      # Fichiers JSON exportés depuis Label Studio après révision
-│   └── 04_final/                         # Fichiers XLSX finaux, reconstruits et mis à jour après la révision
+│   └── 03_final/                         # Fichiers XLSX finaux, reconstruits et mis à jour après la révision
 ├── scripts/
 │   ├── export_to_label_studio.py         # (Étape 1) Convertit les XLSX gold_flat en JSON importable
 │   └── import_from_label_studio.py       # (Étape 2) Reconstruit les XLSX à partir des JSON exportés de Label Studio
@@ -39,26 +38,26 @@ Pour chaque fichier XLSX (déjà au format `gold_flat`) que vous souhaitez révi
 
 ```bash
 python scripts/export_to_label_studio.py \
-    --input data/02_gold_flat/obésité_annotations_gold_flat.xlsx \
-    --output data/03_label_studio/imports/obésité_annotations_gold_flat_import.json
+    --input data/01_gold_flat/obésité_annotations_gold_flat.xlsx \
+    --output data/02_label_studio/imports/obésité_annotations_gold_flat_import.json
 ```
 *(Si `--output` est omis, le fichier sera créé dans le même dossier que l'entrée avec le suffixe `_import.json`)*.
 
 ### Étape 1bis : Révision dans Label Studio
 1. Créez un nouveau projet dans Label Studio.
 2. Allez dans **Settings > Labeling Interface**, basculez en mode **Code**, collez le contenu du fichier `config/label_studio_config.xml`, puis sauvegardez.
-3. Cliquez sur **Import** et uploadez votre fichier généré (ex: `data/03_label_studio/imports/obésité_annotations_gold_flat_import.json`).
+3. Cliquez sur **Import** et uploadez votre fichier généré (ex: `./02_label_studio/imports/obésité_annotations_gold_flat_import.json`).
 4. Révisez les annotations (ajustement des spans, ajout/suppression de labels).
-5. Une fois terminé, cliquez sur **Export** au format **JSON** et sauvegardez le fichier dans `data/03_label_studio/exports/` (ex: `obésité_gold_new.json`).
+5. Une fois terminé, cliquez sur **Export** au format **JSON** et sauvegardez le fichier dans `data/02_label_studio/exports/` (ex: `obésité_gold_new.json`).
 
 ### Étape 2 : Réintégration (Import depuis Label Studio)
 Reconstruisez le fichier XLSX d'origine en y intégrant vos révisions Label Studio. Le script mettra à jour la colonne `spans_json`, les colonnes `span*_text/cat/mode`, et recalculera l'ensemble des 19 colonnes binaires. Toutes les autres colonnes contextuelles (linguistiques, metadata) sont conservées intactes.
 
 ```bash
 python scripts/import_from_label_studio.py \
-    --json data/03_label_studio/exports/obésité_gold_new.json \
-    --xlsx data/02_gold_flat/obésité_annotations_gold_flat.xlsx \
-    --output data/04_final/obésité_annotations_gold_flat_updated.xlsx
+    --json data/02_label_studio/exports/obésité_gold_new.json \
+    --xlsx data/01_gold_flat/obésité_annotations_gold_flat.xlsx \
+    --output data/03_final/obésité_annotations_gold_flat_updated.xlsx
 ```
 *(Si `--output` est omis, le fichier sera créé dans le même dossier que le XLSX d'entrée avec le suffixe `_updated.xlsx`)*.
 
